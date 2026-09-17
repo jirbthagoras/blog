@@ -1,0 +1,20 @@
+base_url = "https://talulog.vercel.app"
+title = "A Place Further than the Universe"
+description = "Owned by: jirbthagoras"
+theme = "archie-zola"
+default_language = "en"
+taxonomies = [{ name = "tags" }]
+
+[markdown.highlighting]
+theme = "one-light"
+style = "inline"
+
+[[extra.social]]
+icon = "github"
+name = "GitHub"
+url = "https://github.com/jirbthagoras"
+
+[[extra.social]]
+icon = "linkedin"
+name = "LinkedIn"
+url = "https://linkedin.com/in/jabriel-hans-talula"
