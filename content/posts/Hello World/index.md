@@ -18,6 +18,8 @@ To tackle this challenge, the thing that I should do is re-organizing my thought
 
 This will be a long journey, but since writing is also a thought sharing platform, I guess bored is the last thing I wanted to do even though the earth was collapsing.
 
-I'm counting on you guys!
+```python
+print("I'm counting on you guys!")
+```
 
 ![Alt Text](Laserkagura.webp)

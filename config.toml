@@ -1,6 +1,6 @@
 base_url = "https://writethagoras.vercel.app"
-title = "A Place Further than the Universe"
-description = "Owned by: jirbthagoras"
+title = "Writethagoras"
+description = "A Place Further than the Universe"
 theme = "archie-zola"
 default_language = "en"
 taxonomies = [{ name = "tags" }]
