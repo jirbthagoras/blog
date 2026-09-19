@@ -18,3 +18,20 @@ url = "https://github.com/jirbthagoras"
 icon = "linkedin"
 name = "LinkedIn"
 url = "https://linkedin.com/in/jabriel-hans-talula"
+
+[extra.translations]
+languages = [{ name = "en", url = "/" }]
+
+[[extra.translations.en]]
+show_more = "Read more ⟶"
+previous_page = "← Previous"
+next_page = "Next →"
+posted_on = "on "
+posted_by = "Published by"
+read_time = "minute read"
+all_tags = "All tags"
+menus = [
+    { name = "Home", url = "/", weight = 1 },
+    { name = "Posts", url = "/posts", weight = 2 },
+    { name = "Tags", url = "/tags", weight = 3 },
+]
