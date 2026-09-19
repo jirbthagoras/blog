@@ -19,10 +19,10 @@ In this series, I will cover all of the rules I personally follow to survive in 
 
 **Rule #1: Gather Allies**
 
-In this place, us survivor are separated into two different blocks: those who wants to live, and those who wants to fight. You cannot be a lone wolf amidst this disaster, we need people, we need a group to protect our back. So, you better decide what kind of survivor you are. Are you those people who accidentally dragged to this disaster and decided to endure during this storm? Or you are those people with full conciousness choosing to walk this path of disaster and decided to fight in the first place?
+In this place, us survivor are separated into two different blocks: those who wants to live, and those who wants to fight. You cannot be a lone wolf amidst this disaster, we need people, we need a group to protect our back. So, you better decide what kind of survivor you are. Are you those people who accidentally dragged to this disaster and decided to endure during this storm? Or you are those people choosing to walk this path of disaster with full-formed conciousness and decided to fight in the first place?
 
-Gathering Allies greatly increases your possibility to survive rather than doing all alone. They can help you cover your flaws, or even fight together. But you also need to remember that not all people are able to be given trust, some are just... irresponsible and careless, so it can directly affect your group performance. This is why communication skills are come in handy, you can do some early background checking by "investigating" target's connections, so you can list out any peoples that you think are incapable of being the part of the group. People also tends to show unexpected behavior that never shown or known before, so being careful and aware to the group is not a wrong thing to do.
+After you acknowledges your type of survival, then the next thing you want to do is: group in with fellow survivor, it greatly increases your possibility to survive rather than doing all alone. They can help you cover your flaws, or even fight together. But you also need to remember that not all people are able to be given trust, some are just... let's say irresponsible and careless, so it can directly affect your group performance. This is why communication skills are come in handy, you can do some early background checking by "investigating" target's connections, so you can list out any peoples that you think are incapable of being the part of the group. People also tends to show unexpected behavior that never shown or known before, so being careful and aware to the group is not a wrong thing to do.
 
-That's all I need to say.
+That's all I need to say
 
 ***May the god of bravery and perseverance be with you.*** 
